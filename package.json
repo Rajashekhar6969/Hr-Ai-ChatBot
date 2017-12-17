@@ -1,12 +1,12 @@
 {
   "name": "Hr-ai",
   "version": "1.0.0",
-  "description": "Hr Ai sample",
+  "description": "Hr-Ai ChatBot sample",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Dev",
+  "author": "Rajashekhar",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4"
